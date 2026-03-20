@@ -104,7 +104,7 @@ ggplot(uoe_art_fix %>% filter(!is.na(year)), aes(x = year)) +
   )
 ```
 
-##Exercise 14
+## Exercise 14
 ```{r}
 uoe_art %>%
   filter(!is.na(artist)) %>%

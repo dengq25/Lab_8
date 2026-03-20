@@ -175,7 +175,7 @@ ggplot(uoe_art_fix %>% filter(!is.na(year)), aes(x = year)) +
 
 ![](lab-08_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
-\##Exercise 14
+## Exercise 14
 
 ``` r
 uoe_art %>%
